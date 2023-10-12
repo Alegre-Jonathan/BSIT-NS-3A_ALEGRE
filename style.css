@@ -36,7 +36,20 @@ nav {
 }
 
 .nav-links {
-  gap: 2rem;
+  gap: 3rem;
   list-style: none;
   font-size: 1.5rem;
+}
+
+a {
+  color: rgb(129, 8, 241);
+  text-decoration: none;
+  text-decoration-color: white;
+}
+
+a:hover {
+  color: black;
+  text-decoration: underline;
+  text-underline-offset: 1.3rem;
+  text-decoration-color: rgb(181, 181, 181);
 }
