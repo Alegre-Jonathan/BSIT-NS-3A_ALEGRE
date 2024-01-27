@@ -310,6 +310,10 @@ section {
   bottom: 2.5rem;
 }
 
+.text-container{ 
+  padding-left: 20px;  
+}
+
 /* Experience Section */
 
 #experience {
